@@ -5,7 +5,6 @@
 #include <stdlib.h>
 
 #define INSTRUCTIONS              \
-	
 	{                           \
 		{"push", push},       \
 		    {"pall", pall},   \
